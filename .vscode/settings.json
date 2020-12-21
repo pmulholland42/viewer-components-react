@@ -13,7 +13,6 @@
     "**/.rush": true,
     "**/*.build.log": true,
     "**/*.build.error.log": true,
-    "**/node_modules": true,
     "**/out": true,
     "**/lib": true,
     "common/temp": true
